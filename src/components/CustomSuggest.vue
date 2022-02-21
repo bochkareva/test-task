@@ -225,6 +225,7 @@ export default {
 <style>
 .custom-suggest {
   width: 100%;
+  max-width: 700px;
   position: relative;
 }
 
